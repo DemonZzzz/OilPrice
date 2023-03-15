@@ -1,0 +1,9 @@
+	{
+  "domain": "oilpricetest",
+  "name": "oilpricetest",
+  "version": "0.0.1",
+  "documentation": "https://github.com/DemonZzzz/OilPrice.git/main/README.md",
+  "dependencies": [],
+  "codeowners": [""],
+  "requirements": ["requests", "beautifulsoup4"]
+}
